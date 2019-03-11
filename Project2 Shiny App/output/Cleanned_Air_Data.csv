@@ -1,0 +1,296 @@
+"","name","Measure","geo_type_name","geo_entity_id","geo_entity_name","year_description","data_value"
+"1","Fine Particulate Matter (PM2.5)","Mean","CD",101,"Financial District (CD1)","Annual Average 2016",9.56
+"2","Fine Particulate Matter (PM2.5)","Mean","CD",102,"Greenwich Village and Soho (CD2)","Annual Average 2016",9.53
+"3","Fine Particulate Matter (PM2.5)","Mean","CD",103,"Lower East Side and Chinatown (CD3)","Annual Average 2016",8.9
+"4","Fine Particulate Matter (PM2.5)","Mean","CD",104,"Clinton and Chelsea (CD4)","Annual Average 2016",9.76
+"5","Fine Particulate Matter (PM2.5)","Mean","CD",105,"Midtown (CD5)","Annual Average 2016",11.34
+"6","Fine Particulate Matter (PM2.5)","Mean","CD",106,"Stuyvesant Town and Turtle Bay (CD6)","Annual Average 2016",10.21
+"7","Fine Particulate Matter (PM2.5)","Mean","CD",107,"Upper West Side (CD7)","Annual Average 2016",8.49
+"8","Fine Particulate Matter (PM2.5)","Mean","CD",108,"Upper East Side (CD8)","Annual Average 2016",9.1
+"9","Fine Particulate Matter (PM2.5)","Mean","CD",109,"Morningside Heights and Hamilton Heights (CD9)","Annual Average 2016",8.01
+"10","Fine Particulate Matter (PM2.5)","Mean","CD",110,"Central Harlem (CD10)","Annual Average 2016",7.89
+"11","Fine Particulate Matter (PM2.5)","Mean","CD",111,"East Harlem (CD11)","Annual Average 2016",8.17
+"12","Fine Particulate Matter (PM2.5)","Mean","CD",112,"Washington Heights and Inwood (CD12)","Annual Average 2016",7.79
+"13","Fine Particulate Matter (PM2.5)","Mean","CD",201,"Mott Haven and Melrose (CD1)","Annual Average 2016",8.55
+"14","Fine Particulate Matter (PM2.5)","Mean","CD",202,"Hunts Point and Longwood (CD2)","Annual Average 2016",8.49
+"15","Fine Particulate Matter (PM2.5)","Mean","CD",203,"Morrisania and Crotona (CD3)","Annual Average 2016",7.85
+"16","Fine Particulate Matter (PM2.5)","Mean","CD",204,"Highbridge and Concourse (CD4)","Annual Average 2016",8.25
+"17","Fine Particulate Matter (PM2.5)","Mean","CD",205,"Fordham and University Heights (CD5)","Annual Average 2016",8.34
+"18","Fine Particulate Matter (PM2.5)","Mean","CD",206,"Belmont and East Tremont (CD6)","Annual Average 2016",7.96
+"19","Fine Particulate Matter (PM2.5)","Mean","CD",207,"Kingsbridge Heights and Bedford (CD7)","Annual Average 2016",7.78
+"20","Fine Particulate Matter (PM2.5)","Mean","CD",208,"Riverdale and Fieldston (CD8)","Annual Average 2016",7.49
+"21","Fine Particulate Matter (PM2.5)","Mean","CD",209,"Parkchester and Soundview (CD9)","Annual Average 2016",7.6
+"22","Fine Particulate Matter (PM2.5)","Mean","CD",210,"Throgs Neck and Co-op City (CD10)","Annual Average 2016",7.51
+"23","Fine Particulate Matter (PM2.5)","Mean","CD",211,"Morris Park and Bronxdale (CD11)","Annual Average 2016",7.4
+"24","Fine Particulate Matter (PM2.5)","Mean","CD",212,"Williamsbridge and Baychester (CD12)","Annual Average 2016",7.46
+"25","Fine Particulate Matter (PM2.5)","Mean","CD",301,"Greenpoint and Williamsburg (CD1)","Annual Average 2016",9.55
+"26","Fine Particulate Matter (PM2.5)","Mean","CD",302,"Fort Greene and Brooklyn Heights (CD2)","Annual Average 2016",8.83
+"27","Fine Particulate Matter (PM2.5)","Mean","CD",303,"Bedford Stuyvesant (CD3)","Annual Average 2016",8.09
+"28","Fine Particulate Matter (PM2.5)","Mean","CD",304,"Bushwick (CD4)","Annual Average 2016",8.07
+"29","Fine Particulate Matter (PM2.5)","Mean","CD",305,"East New York and Starrett City (CD5)","Annual Average 2016",7.73
+"30","Fine Particulate Matter (PM2.5)","Mean","CD",306,"Park Slope and Carroll Gardens (CD6)","Annual Average 2016",8.86
+"31","Fine Particulate Matter (PM2.5)","Mean","CD",307,"Sunset Park (CD7)","Annual Average 2016",8.52
+"32","Fine Particulate Matter (PM2.5)","Mean","CD",308,"Crown Heights and Prospect Heights (CD8)","Annual Average 2016",7.98
+"33","Fine Particulate Matter (PM2.5)","Mean","CD",309,"South Crown Heights and Lefferts Gardens (CD9)","Annual Average 2016",7.77
+"34","Fine Particulate Matter (PM2.5)","Mean","CD",310,"Bay Ridge and Dyker Heights (CD10)","Annual Average 2016",7.39
+"35","Fine Particulate Matter (PM2.5)","Mean","CD",311,"Bensonhurst (CD11)","Annual Average 2016",7.03
+"36","Fine Particulate Matter (PM2.5)","Mean","CD",312,"Borough Park (CD12)","Annual Average 2016",7.49
+"37","Fine Particulate Matter (PM2.5)","Mean","CD",313,"Coney Island (CD13)","Annual Average 2016",6.65
+"38","Fine Particulate Matter (PM2.5)","Mean","CD",314,"Flatbush and Midwood (CD14)","Annual Average 2016",7.45
+"39","Fine Particulate Matter (PM2.5)","Mean","CD",315,"Sheepshead Bay (CD15)","Annual Average 2016",6.78
+"40","Fine Particulate Matter (PM2.5)","Mean","CD",316,"Brownsville (CD16)","Annual Average 2016",7.97
+"41","Fine Particulate Matter (PM2.5)","Mean","CD",317,"East Flatbush (CD17)","Annual Average 2016",7.79
+"42","Fine Particulate Matter (PM2.5)","Mean","CD",318,"Flatlands and Canarsie (CD18)","Annual Average 2016",7.08
+"43","Fine Particulate Matter (PM2.5)","Mean","CD",401,"Long Island City and Astoria (CD1)","Annual Average 2016",7.82
+"44","Fine Particulate Matter (PM2.5)","Mean","CD",402,"Woodside and Sunnyside (CD2)","Annual Average 2016",9.27
+"45","Fine Particulate Matter (PM2.5)","Mean","CD",403,"Jackson Heights (CD3)","Annual Average 2016",7.27
+"46","Fine Particulate Matter (PM2.5)","Mean","CD",404,"Elmhurst and Corona (CD4)","Annual Average 2016",7.71
+"47","Fine Particulate Matter (PM2.5)","Mean","CD",405,"Ridgewood and Maspeth (CD5)","Annual Average 2016",7.97
+"48","Fine Particulate Matter (PM2.5)","Mean","CD",406,"Rego Park and Forest Hills (CD6)","Annual Average 2016",7.5
+"49","Fine Particulate Matter (PM2.5)","Mean","CD",407,"Flushing and Whitestone (CD7)","Annual Average 2016",7.26
+"50","Fine Particulate Matter (PM2.5)","Mean","CD",408,"Hillcrest and Fresh Meadows (CD8)","Annual Average 2016",7.01
+"51","Fine Particulate Matter (PM2.5)","Mean","CD",409,"Kew Gardens and Woodhaven (CD9)","Annual Average 2016",7.29
+"52","Fine Particulate Matter (PM2.5)","Mean","CD",410,"South Ozone Park and Howard Beach (CD10)","Annual Average 2016",6.85
+"53","Fine Particulate Matter (PM2.5)","Mean","CD",411,"Bayside and Little Neck (CD11)","Annual Average 2016",6.87
+"54","Fine Particulate Matter (PM2.5)","Mean","CD",412,"Jamaica and Hollis (CD12)","Annual Average 2016",6.98
+"55","Fine Particulate Matter (PM2.5)","Mean","CD",413,"Queens Village (CD13)","Annual Average 2016",6.53
+"56","Fine Particulate Matter (PM2.5)","Mean","CD",414,"Rockaway and Broad Channel (CD14)","Annual Average 2016",5.98
+"57","Fine Particulate Matter (PM2.5)","Mean","CD",501,"St. George and Stapleton (CD1)","Annual Average 2016",7.11
+"58","Fine Particulate Matter (PM2.5)","Mean","CD",502,"South Beach and Willowbrook (CD2)","Annual Average 2016",6.89
+"59","Fine Particulate Matter (PM2.5)","Mean","CD",503,"Tottenville and Great Kills (CD3)","Annual Average 2016",6.62
+"60","Black Carbon","Mean","CD",101,"Financial District (CD1)","Annual Average 2016",1.15
+"61","Black Carbon","Mean","CD",102,"Greenwich Village and Soho (CD2)","Annual Average 2016",1.53
+"62","Black Carbon","Mean","CD",103,"Lower East Side and Chinatown (CD3)","Annual Average 2016",1.29
+"63","Black Carbon","Mean","CD",104,"Clinton and Chelsea (CD4)","Annual Average 2016",1.39
+"64","Black Carbon","Mean","CD",105,"Midtown (CD5)","Annual Average 2016",1.61
+"65","Black Carbon","Mean","CD",106,"Stuyvesant Town and Turtle Bay (CD6)","Annual Average 2016",1.37
+"66","Black Carbon","Mean","CD",107,"Upper West Side (CD7)","Annual Average 2016",1.14
+"67","Black Carbon","Mean","CD",108,"Upper East Side (CD8)","Annual Average 2016",1.33
+"68","Black Carbon","Mean","CD",109,"Morningside Heights and Hamilton Heights (CD9)","Annual Average 2016",1.03
+"69","Black Carbon","Mean","CD",110,"Central Harlem (CD10)","Annual Average 2016",1.09
+"70","Black Carbon","Mean","CD",111,"East Harlem (CD11)","Annual Average 2016",1.1
+"71","Black Carbon","Mean","CD",112,"Washington Heights and Inwood (CD12)","Annual Average 2016",1
+"72","Black Carbon","Mean","CD",201,"Mott Haven and Melrose (CD1)","Annual Average 2016",1.12
+"73","Black Carbon","Mean","CD",202,"Hunts Point and Longwood (CD2)","Annual Average 2016",1.08
+"74","Black Carbon","Mean","CD",203,"Morrisania and Crotona (CD3)","Annual Average 2016",0.97
+"75","Black Carbon","Mean","CD",204,"Highbridge and Concourse (CD4)","Annual Average 2016",1.07
+"76","Black Carbon","Mean","CD",205,"Fordham and University Heights (CD5)","Annual Average 2016",1.12
+"77","Black Carbon","Mean","CD",206,"Belmont and East Tremont (CD6)","Annual Average 2016",1.01
+"78","Black Carbon","Mean","CD",207,"Kingsbridge Heights and Bedford (CD7)","Annual Average 2016",0.92
+"79","Black Carbon","Mean","CD",208,"Riverdale and Fieldston (CD8)","Annual Average 2016",0.81
+"80","Black Carbon","Mean","CD",209,"Parkchester and Soundview (CD9)","Annual Average 2016",0.9
+"81","Black Carbon","Mean","CD",210,"Throgs Neck and Co-op City (CD10)","Annual Average 2016",0.88
+"82","Black Carbon","Mean","CD",211,"Morris Park and Bronxdale (CD11)","Annual Average 2016",0.83
+"83","Black Carbon","Mean","CD",212,"Williamsbridge and Baychester (CD12)","Annual Average 2016",0.82
+"84","Black Carbon","Mean","CD",301,"Greenpoint and Williamsburg (CD1)","Annual Average 2016",1.22
+"85","Black Carbon","Mean","CD",302,"Fort Greene and Brooklyn Heights (CD2)","Annual Average 2016",1.04
+"86","Black Carbon","Mean","CD",303,"Bedford Stuyvesant (CD3)","Annual Average 2016",0.83
+"87","Black Carbon","Mean","CD",304,"Bushwick (CD4)","Annual Average 2016",0.87
+"88","Black Carbon","Mean","CD",305,"East New York and Starrett City (CD5)","Annual Average 2016",0.83
+"89","Black Carbon","Mean","CD",306,"Park Slope and Carroll Gardens (CD6)","Annual Average 2016",1.06
+"90","Black Carbon","Mean","CD",307,"Sunset Park (CD7)","Annual Average 2016",0.99
+"91","Black Carbon","Mean","CD",308,"Crown Heights and Prospect Heights (CD8)","Annual Average 2016",0.87
+"92","Black Carbon","Mean","CD",309,"South Crown Heights and Lefferts Gardens (CD9)","Annual Average 2016",0.78
+"93","Black Carbon","Mean","CD",310,"Bay Ridge and Dyker Heights (CD10)","Annual Average 2016",0.81
+"94","Black Carbon","Mean","CD",311,"Bensonhurst (CD11)","Annual Average 2016",0.7
+"95","Black Carbon","Mean","CD",312,"Borough Park (CD12)","Annual Average 2016",0.74
+"96","Black Carbon","Mean","CD",313,"Coney Island (CD13)","Annual Average 2016",0.65
+"97","Black Carbon","Mean","CD",314,"Flatbush and Midwood (CD14)","Annual Average 2016",0.75
+"98","Black Carbon","Mean","CD",315,"Sheepshead Bay (CD15)","Annual Average 2016",0.67
+"99","Black Carbon","Mean","CD",316,"Brownsville (CD16)","Annual Average 2016",0.85
+"100","Black Carbon","Mean","CD",317,"East Flatbush (CD17)","Annual Average 2016",0.81
+"101","Black Carbon","Mean","CD",318,"Flatlands and Canarsie (CD18)","Annual Average 2016",0.68
+"102","Black Carbon","Mean","CD",401,"Long Island City and Astoria (CD1)","Annual Average 2016",0.88
+"103","Black Carbon","Mean","CD",402,"Woodside and Sunnyside (CD2)","Annual Average 2016",1.21
+"104","Black Carbon","Mean","CD",403,"Jackson Heights (CD3)","Annual Average 2016",0.77
+"105","Black Carbon","Mean","CD",404,"Elmhurst and Corona (CD4)","Annual Average 2016",0.87
+"106","Black Carbon","Mean","CD",405,"Ridgewood and Maspeth (CD5)","Annual Average 2016",0.86
+"107","Black Carbon","Mean","CD",406,"Rego Park and Forest Hills (CD6)","Annual Average 2016",0.83
+"108","Black Carbon","Mean","CD",407,"Flushing and Whitestone (CD7)","Annual Average 2016",0.8
+"109","Black Carbon","Mean","CD",408,"Hillcrest and Fresh Meadows (CD8)","Annual Average 2016",0.77
+"110","Black Carbon","Mean","CD",409,"Kew Gardens and Woodhaven (CD9)","Annual Average 2016",0.77
+"111","Black Carbon","Mean","CD",410,"South Ozone Park and Howard Beach (CD10)","Annual Average 2016",0.68
+"112","Black Carbon","Mean","CD",411,"Bayside and Little Neck (CD11)","Annual Average 2016",0.77
+"113","Black Carbon","Mean","CD",412,"Jamaica and Hollis (CD12)","Annual Average 2016",0.75
+"114","Black Carbon","Mean","CD",413,"Queens Village (CD13)","Annual Average 2016",0.68
+"115","Black Carbon","Mean","CD",414,"Rockaway and Broad Channel (CD14)","Annual Average 2016",0.56
+"116","Black Carbon","Mean","CD",501,"St. George and Stapleton (CD1)","Annual Average 2016",0.72
+"117","Black Carbon","Mean","CD",502,"South Beach and Willowbrook (CD2)","Annual Average 2016",0.69
+"118","Black Carbon","Mean","CD",503,"Tottenville and Great Kills (CD3)","Annual Average 2016",0.63
+"119","Ozone (O3)","Mean","CD",101,"Financial District (CD1)","Summer 2016",29.81
+"120","Ozone (O3)","Mean","CD",102,"Greenwich Village and Soho (CD2)","Summer 2016",29.87
+"121","Ozone (O3)","Mean","CD",103,"Lower East Side and Chinatown (CD3)","Summer 2016",30.41
+"122","Ozone (O3)","Mean","CD",104,"Clinton and Chelsea (CD4)","Summer 2016",29.76
+"123","Ozone (O3)","Mean","CD",105,"Midtown (CD5)","Summer 2016",26.92
+"124","Ozone (O3)","Mean","CD",106,"Stuyvesant Town and Turtle Bay (CD6)","Summer 2016",28.23
+"125","Ozone (O3)","Mean","CD",107,"Upper West Side (CD7)","Summer 2016",30.55
+"126","Ozone (O3)","Mean","CD",108,"Upper East Side (CD8)","Summer 2016",30.12
+"127","Ozone (O3)","Mean","CD",109,"Morningside Heights and Hamilton Heights (CD9)","Summer 2016",31.29
+"128","Ozone (O3)","Mean","CD",110,"Central Harlem (CD10)","Summer 2016",31.42
+"129","Ozone (O3)","Mean","CD",111,"East Harlem (CD11)","Summer 2016",31.66
+"130","Ozone (O3)","Mean","CD",112,"Washington Heights and Inwood (CD12)","Summer 2016",32.01
+"131","Ozone (O3)","Mean","CD",201,"Mott Haven and Melrose (CD1)","Summer 2016",32.81
+"132","Ozone (O3)","Mean","CD",202,"Hunts Point and Longwood (CD2)","Summer 2016",33.74
+"133","Ozone (O3)","Mean","CD",203,"Morrisania and Crotona (CD3)","Summer 2016",32.58
+"134","Ozone (O3)","Mean","CD",204,"Highbridge and Concourse (CD4)","Summer 2016",32.2
+"135","Ozone (O3)","Mean","CD",205,"Fordham and University Heights (CD5)","Summer 2016",32.06
+"136","Ozone (O3)","Mean","CD",206,"Belmont and East Tremont (CD6)","Summer 2016",32.5
+"137","Ozone (O3)","Mean","CD",207,"Kingsbridge Heights and Bedford (CD7)","Summer 2016",32.46
+"138","Ozone (O3)","Mean","CD",208,"Riverdale and Fieldston (CD8)","Summer 2016",32.52
+"139","Ozone (O3)","Mean","CD",209,"Parkchester and Soundview (CD9)","Summer 2016",33.25
+"140","Ozone (O3)","Mean","CD",210,"Throgs Neck and Co-op City (CD10)","Summer 2016",34
+"141","Ozone (O3)","Mean","CD",211,"Morris Park and Bronxdale (CD11)","Summer 2016",33.21
+"142","Ozone (O3)","Mean","CD",212,"Williamsbridge and Baychester (CD12)","Summer 2016",33.19
+"143","Ozone (O3)","Mean","CD",301,"Greenpoint and Williamsburg (CD1)","Summer 2016",32.99
+"144","Ozone (O3)","Mean","CD",302,"Fort Greene and Brooklyn Heights (CD2)","Summer 2016",31.63
+"145","Ozone (O3)","Mean","CD",303,"Bedford Stuyvesant (CD3)","Summer 2016",32.55
+"146","Ozone (O3)","Mean","CD",304,"Bushwick (CD4)","Summer 2016",33.47
+"147","Ozone (O3)","Mean","CD",305,"East New York and Starrett City (CD5)","Summer 2016",34.57
+"148","Ozone (O3)","Mean","CD",306,"Park Slope and Carroll Gardens (CD6)","Summer 2016",32.27
+"149","Ozone (O3)","Mean","CD",307,"Sunset Park (CD7)","Summer 2016",33.19
+"150","Ozone (O3)","Mean","CD",308,"Crown Heights and Prospect Heights (CD8)","Summer 2016",32.54
+"151","Ozone (O3)","Mean","CD",309,"South Crown Heights and Lefferts Gardens (CD9)","Summer 2016",32.98
+"152","Ozone (O3)","Mean","CD",310,"Bay Ridge and Dyker Heights (CD10)","Summer 2016",33.51
+"153","Ozone (O3)","Mean","CD",311,"Bensonhurst (CD11)","Summer 2016",34.51
+"154","Ozone (O3)","Mean","CD",312,"Borough Park (CD12)","Summer 2016",33.45
+"155","Ozone (O3)","Mean","CD",313,"Coney Island (CD13)","Summer 2016",36.33
+"156","Ozone (O3)","Mean","CD",314,"Flatbush and Midwood (CD14)","Summer 2016",33.56
+"157","Ozone (O3)","Mean","CD",315,"Sheepshead Bay (CD15)","Summer 2016",35.37
+"158","Ozone (O3)","Mean","CD",316,"Brownsville (CD16)","Summer 2016",33.74
+"159","Ozone (O3)","Mean","CD",317,"East Flatbush (CD17)","Summer 2016",33.88
+"160","Ozone (O3)","Mean","CD",318,"Flatlands and Canarsie (CD18)","Summer 2016",35.71
+"161","Ozone (O3)","Mean","CD",401,"Long Island City and Astoria (CD1)","Summer 2016",33.44
+"162","Ozone (O3)","Mean","CD",402,"Woodside and Sunnyside (CD2)","Summer 2016",33.37
+"163","Ozone (O3)","Mean","CD",403,"Jackson Heights (CD3)","Summer 2016",32.97
+"164","Ozone (O3)","Mean","CD",404,"Elmhurst and Corona (CD4)","Summer 2016",32.75
+"165","Ozone (O3)","Mean","CD",405,"Ridgewood and Maspeth (CD5)","Summer 2016",33.76
+"166","Ozone (O3)","Mean","CD",406,"Rego Park and Forest Hills (CD6)","Summer 2016",32.7
+"167","Ozone (O3)","Mean","CD",407,"Flushing and Whitestone (CD7)","Summer 2016",33.48
+"168","Ozone (O3)","Mean","CD",408,"Hillcrest and Fresh Meadows (CD8)","Summer 2016",32.98
+"169","Ozone (O3)","Mean","CD",409,"Kew Gardens and Woodhaven (CD9)","Summer 2016",33.58
+"170","Ozone (O3)","Mean","CD",410,"South Ozone Park and Howard Beach (CD10)","Summer 2016",34.86
+"171","Ozone (O3)","Mean","CD",411,"Bayside and Little Neck (CD11)","Summer 2016",33.06
+"172","Ozone (O3)","Mean","CD",412,"Jamaica and Hollis (CD12)","Summer 2016",34.03
+"173","Ozone (O3)","Mean","CD",413,"Queens Village (CD13)","Summer 2016",34.43
+"174","Ozone (O3)","Mean","CD",414,"Rockaway and Broad Channel (CD14)","Summer 2016",38.26
+"175","Ozone (O3)","Mean","CD",501,"St. George and Stapleton (CD1)","Summer 2016",33.4
+"176","Ozone (O3)","Mean","CD",502,"South Beach and Willowbrook (CD2)","Summer 2016",35.11
+"177","Ozone (O3)","Mean","CD",503,"Tottenville and Great Kills (CD3)","Summer 2016",36.19
+"178","Nitrogen Dioxide (NO2)","Mean","CD",101,"Financial District (CD1)","Annual Average 2016",26.27
+"179","Nitrogen Dioxide (NO2)","Mean","CD",102,"Greenwich Village and Soho (CD2)","Annual Average 2016",25.94
+"180","Nitrogen Dioxide (NO2)","Mean","CD",103,"Lower East Side and Chinatown (CD3)","Annual Average 2016",24
+"181","Nitrogen Dioxide (NO2)","Mean","CD",104,"Clinton and Chelsea (CD4)","Annual Average 2016",26.68
+"182","Nitrogen Dioxide (NO2)","Mean","CD",105,"Midtown (CD5)","Annual Average 2016",31.64
+"183","Nitrogen Dioxide (NO2)","Mean","CD",106,"Stuyvesant Town and Turtle Bay (CD6)","Annual Average 2016",28.4
+"184","Nitrogen Dioxide (NO2)","Mean","CD",107,"Upper West Side (CD7)","Annual Average 2016",23.15
+"185","Nitrogen Dioxide (NO2)","Mean","CD",108,"Upper East Side (CD8)","Annual Average 2016",24.91
+"186","Nitrogen Dioxide (NO2)","Mean","CD",109,"Morningside Heights and Hamilton Heights (CD9)","Annual Average 2016",22
+"187","Nitrogen Dioxide (NO2)","Mean","CD",110,"Central Harlem (CD10)","Annual Average 2016",22.27
+"188","Nitrogen Dioxide (NO2)","Mean","CD",111,"East Harlem (CD11)","Annual Average 2016",22.09
+"189","Nitrogen Dioxide (NO2)","Mean","CD",112,"Washington Heights and Inwood (CD12)","Annual Average 2016",19.36
+"190","Nitrogen Dioxide (NO2)","Mean","CD",201,"Mott Haven and Melrose (CD1)","Annual Average 2016",20.84
+"191","Nitrogen Dioxide (NO2)","Mean","CD",202,"Hunts Point and Longwood (CD2)","Annual Average 2016",19.79
+"192","Nitrogen Dioxide (NO2)","Mean","CD",203,"Morrisania and Crotona (CD3)","Annual Average 2016",20.07
+"193","Nitrogen Dioxide (NO2)","Mean","CD",204,"Highbridge and Concourse (CD4)","Annual Average 2016",21.21
+"194","Nitrogen Dioxide (NO2)","Mean","CD",205,"Fordham and University Heights (CD5)","Annual Average 2016",21.18
+"195","Nitrogen Dioxide (NO2)","Mean","CD",206,"Belmont and East Tremont (CD6)","Annual Average 2016",19.86
+"196","Nitrogen Dioxide (NO2)","Mean","CD",207,"Kingsbridge Heights and Bedford (CD7)","Annual Average 2016",19.15
+"197","Nitrogen Dioxide (NO2)","Mean","CD",208,"Riverdale and Fieldston (CD8)","Annual Average 2016",16.04
+"198","Nitrogen Dioxide (NO2)","Mean","CD",209,"Parkchester and Soundview (CD9)","Annual Average 2016",18.81
+"199","Nitrogen Dioxide (NO2)","Mean","CD",210,"Throgs Neck and Co-op City (CD10)","Annual Average 2016",17.23
+"200","Nitrogen Dioxide (NO2)","Mean","CD",211,"Morris Park and Bronxdale (CD11)","Annual Average 2016",17.91
+"201","Nitrogen Dioxide (NO2)","Mean","CD",212,"Williamsbridge and Baychester (CD12)","Annual Average 2016",16.93
+"202","Nitrogen Dioxide (NO2)","Mean","CD",301,"Greenpoint and Williamsburg (CD1)","Annual Average 2016",21.38
+"203","Nitrogen Dioxide (NO2)","Mean","CD",302,"Fort Greene and Brooklyn Heights (CD2)","Annual Average 2016",22.16
+"204","Nitrogen Dioxide (NO2)","Mean","CD",303,"Bedford Stuyvesant (CD3)","Annual Average 2016",20.79
+"205","Nitrogen Dioxide (NO2)","Mean","CD",304,"Bushwick (CD4)","Annual Average 2016",19.82
+"206","Nitrogen Dioxide (NO2)","Mean","CD",305,"East New York and Starrett City (CD5)","Annual Average 2016",17.83
+"207","Nitrogen Dioxide (NO2)","Mean","CD",306,"Park Slope and Carroll Gardens (CD6)","Annual Average 2016",21.17
+"208","Nitrogen Dioxide (NO2)","Mean","CD",307,"Sunset Park (CD7)","Annual Average 2016",19.44
+"209","Nitrogen Dioxide (NO2)","Mean","CD",308,"Crown Heights and Prospect Heights (CD8)","Annual Average 2016",20.74
+"210","Nitrogen Dioxide (NO2)","Mean","CD",309,"South Crown Heights and Lefferts Gardens (CD9)","Annual Average 2016",20.11
+"211","Nitrogen Dioxide (NO2)","Mean","CD",310,"Bay Ridge and Dyker Heights (CD10)","Annual Average 2016",18.54
+"212","Nitrogen Dioxide (NO2)","Mean","CD",311,"Bensonhurst (CD11)","Annual Average 2016",18.05
+"213","Nitrogen Dioxide (NO2)","Mean","CD",312,"Borough Park (CD12)","Annual Average 2016",19.12
+"214","Nitrogen Dioxide (NO2)","Mean","CD",313,"Coney Island (CD13)","Annual Average 2016",14.64
+"215","Nitrogen Dioxide (NO2)","Mean","CD",314,"Flatbush and Midwood (CD14)","Annual Average 2016",18.29
+"216","Nitrogen Dioxide (NO2)","Mean","CD",315,"Sheepshead Bay (CD15)","Annual Average 2016",15.91
+"217","Nitrogen Dioxide (NO2)","Mean","CD",316,"Brownsville (CD16)","Annual Average 2016",19.29
+"218","Nitrogen Dioxide (NO2)","Mean","CD",317,"East Flatbush (CD17)","Annual Average 2016",18.94
+"219","Nitrogen Dioxide (NO2)","Mean","CD",318,"Flatlands and Canarsie (CD18)","Annual Average 2016",15.36
+"220","Nitrogen Dioxide (NO2)","Mean","CD",401,"Long Island City and Astoria (CD1)","Annual Average 2016",20.07
+"221","Nitrogen Dioxide (NO2)","Mean","CD",402,"Woodside and Sunnyside (CD2)","Annual Average 2016",20.79
+"222","Nitrogen Dioxide (NO2)","Mean","CD",403,"Jackson Heights (CD3)","Annual Average 2016",20.32
+"223","Nitrogen Dioxide (NO2)","Mean","CD",404,"Elmhurst and Corona (CD4)","Annual Average 2016",21.21
+"224","Nitrogen Dioxide (NO2)","Mean","CD",405,"Ridgewood and Maspeth (CD5)","Annual Average 2016",18.83
+"225","Nitrogen Dioxide (NO2)","Mean","CD",406,"Rego Park and Forest Hills (CD6)","Annual Average 2016",19.31
+"226","Nitrogen Dioxide (NO2)","Mean","CD",407,"Flushing and Whitestone (CD7)","Annual Average 2016",18.2
+"227","Nitrogen Dioxide (NO2)","Mean","CD",408,"Hillcrest and Fresh Meadows (CD8)","Annual Average 2016",17.63
+"228","Nitrogen Dioxide (NO2)","Mean","CD",409,"Kew Gardens and Woodhaven (CD9)","Annual Average 2016",18.69
+"229","Nitrogen Dioxide (NO2)","Mean","CD",410,"South Ozone Park and Howard Beach (CD10)","Annual Average 2016",17.21
+"230","Nitrogen Dioxide (NO2)","Mean","CD",411,"Bayside and Little Neck (CD11)","Annual Average 2016",16.78
+"231","Nitrogen Dioxide (NO2)","Mean","CD",412,"Jamaica and Hollis (CD12)","Annual Average 2016",17.63
+"232","Nitrogen Dioxide (NO2)","Mean","CD",413,"Queens Village (CD13)","Annual Average 2016",16.21
+"233","Nitrogen Dioxide (NO2)","Mean","CD",414,"Rockaway and Broad Channel (CD14)","Annual Average 2016",11.6
+"234","Nitrogen Dioxide (NO2)","Mean","CD",501,"St. George and Stapleton (CD1)","Annual Average 2016",16.86
+"235","Nitrogen Dioxide (NO2)","Mean","CD",502,"South Beach and Willowbrook (CD2)","Annual Average 2016",13.36
+"236","Nitrogen Dioxide (NO2)","Mean","CD",503,"Tottenville and Great Kills (CD3)","Annual Average 2016",11.44
+"237","Nitric Oxide (NO)","Mean","CD",101,"Financial District (CD1)","Annual Average 2016",25.8
+"238","Nitric Oxide (NO)","Mean","CD",102,"Greenwich Village and Soho (CD2)","Annual Average 2016",32.85
+"239","Nitric Oxide (NO)","Mean","CD",103,"Lower East Side and Chinatown (CD3)","Annual Average 2016",27
+"240","Nitric Oxide (NO)","Mean","CD",104,"Clinton and Chelsea (CD4)","Annual Average 2016",26.98
+"241","Nitric Oxide (NO)","Mean","CD",105,"Midtown (CD5)","Annual Average 2016",29.85
+"242","Nitric Oxide (NO)","Mean","CD",106,"Stuyvesant Town and Turtle Bay (CD6)","Annual Average 2016",27.43
+"243","Nitric Oxide (NO)","Mean","CD",107,"Upper West Side (CD7)","Annual Average 2016",22.34
+"244","Nitric Oxide (NO)","Mean","CD",108,"Upper East Side (CD8)","Annual Average 2016",27.23
+"245","Nitric Oxide (NO)","Mean","CD",109,"Morningside Heights and Hamilton Heights (CD9)","Annual Average 2016",16.92
+"246","Nitric Oxide (NO)","Mean","CD",110,"Central Harlem (CD10)","Annual Average 2016",17.22
+"247","Nitric Oxide (NO)","Mean","CD",111,"East Harlem (CD11)","Annual Average 2016",18.56
+"248","Nitric Oxide (NO)","Mean","CD",112,"Washington Heights and Inwood (CD12)","Annual Average 2016",16.36
+"249","Nitric Oxide (NO)","Mean","CD",201,"Mott Haven and Melrose (CD1)","Annual Average 2016",16.34
+"250","Nitric Oxide (NO)","Mean","CD",202,"Hunts Point and Longwood (CD2)","Annual Average 2016",15.69
+"251","Nitric Oxide (NO)","Mean","CD",203,"Morrisania and Crotona (CD3)","Annual Average 2016",15.35
+"252","Nitric Oxide (NO)","Mean","CD",204,"Highbridge and Concourse (CD4)","Annual Average 2016",16.75
+"253","Nitric Oxide (NO)","Mean","CD",205,"Fordham and University Heights (CD5)","Annual Average 2016",17.32
+"254","Nitric Oxide (NO)","Mean","CD",206,"Belmont and East Tremont (CD6)","Annual Average 2016",16.53
+"255","Nitric Oxide (NO)","Mean","CD",207,"Kingsbridge Heights and Bedford (CD7)","Annual Average 2016",15.84
+"256","Nitric Oxide (NO)","Mean","CD",208,"Riverdale and Fieldston (CD8)","Annual Average 2016",13.11
+"257","Nitric Oxide (NO)","Mean","CD",209,"Parkchester and Soundview (CD9)","Annual Average 2016",16.63
+"258","Nitric Oxide (NO)","Mean","CD",210,"Throgs Neck and Co-op City (CD10)","Annual Average 2016",16.14
+"259","Nitric Oxide (NO)","Mean","CD",211,"Morris Park and Bronxdale (CD11)","Annual Average 2016",14.21
+"260","Nitric Oxide (NO)","Mean","CD",212,"Williamsbridge and Baychester (CD12)","Annual Average 2016",14.13
+"261","Nitric Oxide (NO)","Mean","CD",301,"Greenpoint and Williamsburg (CD1)","Annual Average 2016",20.06
+"262","Nitric Oxide (NO)","Mean","CD",302,"Fort Greene and Brooklyn Heights (CD2)","Annual Average 2016",22.95
+"263","Nitric Oxide (NO)","Mean","CD",303,"Bedford Stuyvesant (CD3)","Annual Average 2016",19.03
+"264","Nitric Oxide (NO)","Mean","CD",304,"Bushwick (CD4)","Annual Average 2016",18.54
+"265","Nitric Oxide (NO)","Mean","CD",305,"East New York and Starrett City (CD5)","Annual Average 2016",18.08
+"266","Nitric Oxide (NO)","Mean","CD",306,"Park Slope and Carroll Gardens (CD6)","Annual Average 2016",19.42
+"267","Nitric Oxide (NO)","Mean","CD",307,"Sunset Park (CD7)","Annual Average 2016",18.21
+"268","Nitric Oxide (NO)","Mean","CD",308,"Crown Heights and Prospect Heights (CD8)","Annual Average 2016",19.9
+"269","Nitric Oxide (NO)","Mean","CD",309,"South Crown Heights and Lefferts Gardens (CD9)","Annual Average 2016",19.32
+"270","Nitric Oxide (NO)","Mean","CD",310,"Bay Ridge and Dyker Heights (CD10)","Annual Average 2016",15.66
+"271","Nitric Oxide (NO)","Mean","CD",311,"Bensonhurst (CD11)","Annual Average 2016",14.91
+"272","Nitric Oxide (NO)","Mean","CD",312,"Borough Park (CD12)","Annual Average 2016",16.14
+"273","Nitric Oxide (NO)","Mean","CD",313,"Coney Island (CD13)","Annual Average 2016",13.72
+"274","Nitric Oxide (NO)","Mean","CD",314,"Flatbush and Midwood (CD14)","Annual Average 2016",17.37
+"275","Nitric Oxide (NO)","Mean","CD",315,"Sheepshead Bay (CD15)","Annual Average 2016",14.65
+"276","Nitric Oxide (NO)","Mean","CD",316,"Brownsville (CD16)","Annual Average 2016",18.3
+"277","Nitric Oxide (NO)","Mean","CD",317,"East Flatbush (CD17)","Annual Average 2016",18.17
+"278","Nitric Oxide (NO)","Mean","CD",318,"Flatlands and Canarsie (CD18)","Annual Average 2016",15.48
+"279","Nitric Oxide (NO)","Mean","CD",401,"Long Island City and Astoria (CD1)","Annual Average 2016",15.36
+"280","Nitric Oxide (NO)","Mean","CD",402,"Woodside and Sunnyside (CD2)","Annual Average 2016",17.98
+"281","Nitric Oxide (NO)","Mean","CD",403,"Jackson Heights (CD3)","Annual Average 2016",15.93
+"282","Nitric Oxide (NO)","Mean","CD",404,"Elmhurst and Corona (CD4)","Annual Average 2016",17.82
+"283","Nitric Oxide (NO)","Mean","CD",405,"Ridgewood and Maspeth (CD5)","Annual Average 2016",17.19
+"284","Nitric Oxide (NO)","Mean","CD",406,"Rego Park and Forest Hills (CD6)","Annual Average 2016",18.17
+"285","Nitric Oxide (NO)","Mean","CD",407,"Flushing and Whitestone (CD7)","Annual Average 2016",15.2
+"286","Nitric Oxide (NO)","Mean","CD",408,"Hillcrest and Fresh Meadows (CD8)","Annual Average 2016",16.11
+"287","Nitric Oxide (NO)","Mean","CD",409,"Kew Gardens and Woodhaven (CD9)","Annual Average 2016",17.11
+"288","Nitric Oxide (NO)","Mean","CD",410,"South Ozone Park and Howard Beach (CD10)","Annual Average 2016",16.1
+"289","Nitric Oxide (NO)","Mean","CD",411,"Bayside and Little Neck (CD11)","Annual Average 2016",15.08
+"290","Nitric Oxide (NO)","Mean","CD",412,"Jamaica and Hollis (CD12)","Annual Average 2016",15.64
+"291","Nitric Oxide (NO)","Mean","CD",413,"Queens Village (CD13)","Annual Average 2016",14.39
+"292","Nitric Oxide (NO)","Mean","CD",414,"Rockaway and Broad Channel (CD14)","Annual Average 2016",13.59
+"293","Nitric Oxide (NO)","Mean","CD",501,"St. George and Stapleton (CD1)","Annual Average 2016",12.34
+"294","Nitric Oxide (NO)","Mean","CD",502,"South Beach and Willowbrook (CD2)","Annual Average 2016",10.83
+"295","Nitric Oxide (NO)","Mean","CD",503,"Tottenville and Great Kills (CD3)","Annual Average 2016",8.93

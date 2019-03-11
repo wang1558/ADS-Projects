@@ -1,0 +1,60 @@
+,Name.CD,PM2.5,Black_Carbon,O3,NO2,NO,Rent.Price,community
+1,Financial District,9.56,1.15,29.81,26.27,25.8,3950,Bronx
+2,Greenwich Village and Soho,9.53,1.53,29.87,25.94,32.85,3700,Bronx
+3,Lower East Side and Chinatown,8.9,1.29,30.41,24,27,3150,Bronx
+4,Clinton and Chelsea,9.76,1.39,29.76,26.68,26.98,3750,Bronx
+5,Midtown,11.34,1.61,26.92,31.64,29.85,3830,Bronx
+6,Stuyvesant Town and Turtle Bay,10.21,1.37,28.23,28.4,27.43,3339,Bronx
+7,Upper West Side,8.49,1.14,30.55,23.15,22.34,3295,Bronx
+8,Upper East Side,9.1,1.33,30.12,24.91,27.23,2799,Bronx
+9,Morningside Heights and Hamilton Heights,8.01,1.03,31.29,22,16.92,2533,Bronx
+10,Central Harlem,7.89,1.09,31.42,22.27,17.22,2150,Bronx
+11,East Harlem,8.17,1.1,31.66,22.09,18.56,2218,Bronx
+12,Washington Heights and Inwood,7.79,1,32.01,19.36,16.36,2050,Bronx
+13,Mott Haven and Melrose,8.55,1.12,32.81,20.84,16.34,1850,Brooklyn
+14,Hunts Point and Longwood,8.49,1.08,33.74,19.79,15.69,1600,Brooklyn
+15,Morrisania and Crotona,7.85,0.97,32.58,20.07,15.35,1500,Brooklyn
+16,Highbridge and Concourse,8.25,1.07,32.2,21.21,16.75,1550,Brooklyn
+17,Fordham and University Heights,8.34,1.12,32.06,21.18,17.32,1495,Brooklyn
+18,Belmont and East Tremont,7.96,1.01,32.5,19.86,16.53,1450,Brooklyn
+19,Kingsbridge Heights and Bedford,7.78,0.92,32.46,19.15,15.84,1450,Brooklyn
+20,Riverdale and Fieldston,7.49,0.81,32.52,16.04,13.11,2000,Brooklyn
+21,Parkchester and Soundview,7.6,0.9,33.25,18.81,16.63,1500,Brooklyn
+22,Throgs Neck and Co-op City,7.51,0.88,34,17.23,16.14,1500,Brooklyn
+23,Morris Park and Bronxdale,7.4,0.83,33.21,17.91,14.21,1575,Brooklyn
+24,Williamsbridge and Baychester,7.46,0.82,33.19,16.93,14.13,1450,Brooklyn
+25,Greenpoint and Williamsburg,9.55,1.22,32.99,21.38,20.06,3050,Manhattan
+26,Fort Greene and Brooklyn Heights,8.83,1.04,31.63,22.16,22.95,3060,Manhattan
+27,Bedford Stuyvesant,8.09,0.83,32.55,20.79,19.03,2500,Manhattan
+28,Bushwick,8.07,0.87,33.47,19.82,18.54,2599,Manhattan
+29,East New York and Starrett City,7.73,0.83,34.57,17.83,18.08,1900,Manhattan
+30,Park Slope and Carroll Gardens,8.86,1.06,32.27,21.17,19.42,2900,Manhattan
+31,Sunset Park,8.52,0.99,33.19,19.44,18.21,2100,Manhattan
+32,Crown Heights and Prospect Heights,7.98,0.87,32.54,20.74,19.9,2500,Manhattan
+33,South Crown Heights and Lefferts Gardens,7.77,0.78,32.98,20.11,19.32,2022,Manhattan
+34,Bay Ridge and Dyker Heights,7.39,0.81,33.51,18.54,15.66,2000,Manhattan
+35,Bensonhurst,7.03,0.7,34.51,18.05,14.91,1785,Manhattan
+36,Borough Park,7.49,0.74,33.45,19.12,16.14,2000,Manhattan
+37,Coney Island,6.65,0.65,36.33,14.64,13.72,1850,Manhattan
+38,Flatbush and Midwood,7.45,0.75,33.56,18.29,17.37,1850,Manhattan
+39,Sheepshead Bay,6.78,0.67,35.37,15.91,14.65,1750,Manhattan
+40,Brownsville,7.97,0.85,33.74,19.29,18.3,1650,Manhattan
+41,East Flatbush,7.79,0.81,33.88,18.94,18.17,1675,Manhattan
+42,Flatlands and Canarsie,7.08,0.68,35.71,15.36,15.48,1800,Manhattan
+43,Long Island City and Astoria,7.82,0.88,33.44,20.07,15.36,2250,Queens
+44,Woodside and Sunnyside,9.27,1.21,33.37,20.79,17.98,2475,Queens
+45,Jackson Heights,7.27,0.77,32.97,20.32,15.93,1875,Queens
+46,Elmhurst and Corona,7.71,0.87,32.75,21.21,17.82,1800,Queens
+47,Ridgewood and Maspeth,7.97,0.86,33.76,18.83,17.19,2100,Queens
+48,Rego Park and Forest Hills,7.5,0.83,32.7,19.31,18.17,2100,Queens
+49,Flushing and Whitestone,7.26,0.8,33.48,18.2,15.2,1950,Queens
+50,Hillcrest and Fresh Meadows,7.01,0.77,32.98,17.63,16.11,1750,Queens
+51,Kew Gardens and Woodhaven,7.29,0.77,33.58,18.69,17.11,1800,Queens
+52,South Ozone Park and Howard Beach,6.85,0.68,34.86,17.21,16.1,2171,Queens
+53,Bayside and Little Neck,6.87,0.77,33.06,16.78,15.08,2200,Queens
+54,Jamaica and Hollis,6.98,0.75,34.03,17.63,15.64,1800,Queens
+55,Queens Village,6.53,0.68,34.43,16.21,14.39,1825,Queens
+56,Rockaway and Broad Channel,5.98,0.56,38.26,11.6,13.59,1850,Queens
+57,St. George and Stapleton,7.11,0.72,33.4,16.86,12.34,1867.5,Staten Island
+58,South Beach and Willowbrook,6.89,0.69,35.11,13.36,10.83,1775,Staten Island
+59,Tottenville and Great Kills,6.62,0.63,36.19,11.44,8.93,1825,Staten Island

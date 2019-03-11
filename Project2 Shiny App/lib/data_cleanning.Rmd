@@ -1,0 +1,144 @@
+---
+title: "Data clean"
+output: html_document
+---
+```{r}
+# Load required libraries
+packages.used=c("dplyr", "data.table","readr","shiny", "plotly","purrr", "shinydashboard", "leaflet","ggmap","fmsb","RJSONIO","geosphere","tidyverse","scales", "lattice", "htmltools","geojsonio", "maps","tigris", "dtplyr","data.table","rjson")
+packages.needed=setdiff(packages.used, 
+                        intersect(installed.packages()[,1], 
+                                  packages.used))
+if(length(packages.needed)>0){
+  install.packages(packages.needed, dependencies = TRUE,
+                   repos='http://cran.us.r-project.org')
+}
+
+```
+
+
+```{r}
+library(shiny)
+library(shinydashboard)
+library(data.table)
+library(ggmap)
+library(plotly)
+library(fmsb)
+library(RJSONIO)
+library(geosphere)
+library(purrr)
+library(tidyverse)
+library(leaflet)
+library(geojsonio)
+library(tigris)
+library(ggmap)
+library(dplyr)
+library(tidyverse)
+library(leaflet)
+library(rjson)
+library(plyr)
+library(scales)
+```
+
+```{r}
+#Clean house data and find coordinates
+house <- read.csv("../data/Median Rental Price.csv")
+
+house<-house %>% select(long_name,Community.District,X2016)
+house$X2016<- as.character(house$X2016)
+
+house<-house%>%mutate(Community.District =str_extract(string = Community.District,pattern = "[a-zA-Z]{3}+.+"))%>%mutate(Community.District = str_replace(string = Community.District,pattern = "[[:punct:]]",replacement =" and "))
+
+house<-house%>%
+  mutate(Community.District = str_replace(string = Community.District,pattern = "Morningside Heights and Hamilton",replacement = "Morningside Heights and Hamilton Heights"))%>%
+  mutate(Community.District = str_replace(string = Community.District,pattern = "Astoria",replacement = "Long Island City and Astoria"))%>%
+  mutate(Community.District = str_replace(string = Community.District,pattern = "George and Stapleton",replacement = "St. George and Stapleton"))
+
+#register_google(key ="***")#google cloud API Key
+
+house <- house %>%mutate(ADDRESS_Ext = paste(Community.District,"New York, NY",sep = ","))%>%
+mutate_geocode(ADDRESS_Ext)
+house$X2016 <- as.numeric(house$X2016)
+mean_house<- house%>%na.omit()%>%summarise(mean=round(mean(X2016)))
+house$X2016 <- house$X2016 %>% replace_na(mean_house)
+house$markers<- dollar(house$X2016)
+write.csv(house,"../output/Rental_Price.csv")
+
+```
+
+
+```{r}
+#Citibike data clean 
+bike <- fromJSON(file = "../data/stations.json")
+bike <- lapply(bike, function (x) x[c("stationName","latitude","longitude","stAddress1")])
+citi.bike <- data.frame(matrix(unlist(bike), nrow=814, byrow=T))
+colnames(citi.bike) <- c("stationName","latitude","longitude","stAddress1")
+write.csv(citi.bike, "../output/Citibike new data.csv")
+
+
+#filter out New Jersy Citibike 
+bike <- read.csv("../data/Citibike new data.csv")
+register_google(key ="***" )
+bike<- bike%>%rowwise()%>%mutate(Address = revgeocode(c(longitude,latitude),output=c("address")))
+bike <- bike%>% filter(str_detect(string = Address,pattern ="NY" ))
+write.csv(bike, "../output/Citi_bike_Address_update.csv")
+
+```
+
+```{r}
+##clean data for air
+air <- read.csv("../data/Air_Quality_2016_Data.csv")
+air <- air%>%select(name,Measure,geo_type_name,geo_entity_id,
+                    geo_entity_name,year_description,data_value)%>%
+                    filter(geo_type_name=="CD")%>%na.omit()
+
+write.csv("../output/Cleanned_Air_Data.csv")
+```
+
+
+```{r}
+#Clean data for Parcoordinates
+
+data.all<-read.csv("../output/Cleanned_Air_Data.csv")
+data.all <- data.all%>%select()
+
+mode(data.all$geo_entity_id)
+community<-c()
+community[which(data.all$geo_entity_id<200)]<-"Bronx"
+community[which(data.all$geo_entity_id<300&data.all$geo_entity_id>200)]<-"Brooklyn"
+community[which(data.all$geo_entity_id<400&data.all$geo_entity_id>300)]<-"Manhattan"
+community[which(data.all$geo_entity_id<500&data.all$geo_entity_id>400)]<-"Queens"
+community[which(data.all$geo_entity_id>500)]<-"Staten Island"
+data.all<-cbind(data.all,community)
+library(stringr)
+CD.name<-gsub(" \\(.*?\\)","",as.character(data.all$geo_entity_name))
+data.all<-cbind(data.all,CD.name)
+Pollution<- dplyr::recode_factor(data.all$name, 
+            'Fine Particulate Matter (PM2.5)' = "PM2.5",
+            "Ozone (O3)"="O3",
+            "Nitrogen Dioxide (NO2)"="NO2",
+            "Nitric Oxide (NO)"="NO"
+            )
+data.report1<-cbind(data.all,Pollution)[c("community","CD.name","Pollution","data_value")]
+PM2.5<-data.report1$data_value[which(data.report1$Pollution=="PM2.5")]
+Black_Carbon<-data.report1$data_value[which(data.report1$Pollution=="Black Carbon")]
+O3<-data.report1$data_value[which(data.report1$Pollution=="O3")]
+NO2<-data.report1$data_value[which(data.report1$Pollution=="NO2")]
+NO<-data.report1$data_value[which(data.report1$Pollution=="NO")]
+data.report1$CD.name[which(data.report1$Pollution=="NO")]==data.report1$CD.name[which(data.report1$Pollution=="NO2")]
+order(as.character(data.report1$CD.name)[which(data.report1$Pollutio=="O3")])
+order(as.character(data.report1$CD.name)[which(data.report1$Pollutio=="NO")])
+
+Name.CD<-as.character(data.report1$CD.name)[which(data.report1$Pollutio=="NO")]
+data.report2<-data.frame(Name.CD,PM2.5,Black_Carbon,O3,NO2,NO,community=community[1:59])
+
+#read house for joining
+house <- read.csv("../output/Rental_Price.csv")
+
+data.report2<- data.report2 %>%inner_join(house,by = c("Name.CD" = "Community.District"))%>%select(-long_name)%>%select(-community,community)
+names(data.report2)[8]="Rent Price"
+names(data.report2)[9]="Boroughs"
+data.report2<-data.report2 %>%select(-X)
+write.csv(data.report2,"../output/data.report2.csv")
+
+```
+

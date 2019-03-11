@@ -1,0 +1,12 @@
+name: draft
+title: draft
+username:
+account: sheenxia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 737806
+bundleId: 1897405
+url: https://sheenxia.shinyapps.io/draft/
+when: 1551083960.40735
+asMultiple: FALSE
+asStatic: FALSE

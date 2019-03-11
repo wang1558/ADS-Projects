@@ -1,0 +1,26 @@
+﻿Pollution,geo_entity_name,data_value
+PM2.5,Bronx,7.75
+PM2.5,Brooklyn,7.76
+PM2.5,Manhattan,8.97
+PM2.5,Queens,7.17
+PM2.5,Staten Island,6.84
+Black Carbon,Bronx,0.92
+Black Carbon,Brooklyn,0.83
+Black Carbon,Manhattan,1.24
+Black Carbon,Queens,0.78
+Black Carbon,Staten Island,0.67
+O3,Bronx,33.09
+O3,Brooklyn,33.98
+O3,Manhattan,30.3
+O3,Queens,33.98
+O3,Staten Island,35.11
+NO2,Bronx,18.42
+NO2,Brooklyn,18.48
+NO2,Manhattan,24.35
+NO2,Queens,17.65
+NO2,Staten Island,13.47
+NO,Bronx,15.44
+NO,Brooklyn,17.36
+NO,Manhattan,23.59
+NO,Queens,15.71
+NO,Staten Island,10.47
