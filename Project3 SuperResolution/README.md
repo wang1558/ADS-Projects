@@ -15,7 +15,7 @@ Term: Spring 2019
 
 + Project summary: In this project, we created a classification engine for enhancing the resolution of images. We created our baseline model using gradient boosting model(GBM), and the improved model using extreme gradient boosting model(XGB). To improve the effiency of XGB model, we have improved our cross validation part to train the model. Also, the main improvement of XGB model compared with baseline model is that XGB model has a much higher speed. 
 	
-**Contribution statement**: 
+**Contribution statement**:
 	+ Zixiao Wang worked on the baseline model(GBM), including the implement of cross validation, feature and superResolution functions.
 	+ Yiyang Zeng worked on XGB model construction, creating cross validation methodology on two parameters for XGB and making presentation. 
 	+ Hyubin Yoo worked on attempting the SRCNN model in python. 
