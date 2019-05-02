@@ -1,0 +1,42 @@
+---
+title: "Number of Topics_Ldatuning Package"
+author: "zz2555"
+date: "2019/4/9"
+output: pdf_document
+---
+
+```{r}
+library(ldatuning)
+library(SnowballC)  
+library(NLP)
+library(tm)
+```
+
+```{r}
+gt <- Corpus(DirSource("/Users/mac/Documents/GitHub/ADS_Teaching/Projects_StarterCodes/Project4_OCR/data/ground_truth/"), readerControl = list(language = "english"))
+gt <- tm_map(gt, PlainTextDocument)
+gt <- tm_map(gt, stripWhitespace)
+gt <- tm_map(gt, tolower)
+gt <-tm_map(gt,removeNumbers)
+gt <-tm_map(gt,removePunctuation)
+gt <- tm_map(gt, removeWords, stopwords("english"))
+tm_map(gt, stemDocument)
+dtm <- DocumentTermMatrix(gt)
+
+result <- FindTopicsNumber(
+  dtm,
+  topics = seq(from = 2, to = 20, by = 1),
+  metrics = c("Griffiths2004", "CaoJuan2009", "Arun2010", "Deveaud2014"),
+  method = "Gibbs",
+  control = list(seed = 77),
+  mc.cores = 2L,
+  verbose = TRUE
+)
+
+
+```
+
+```{r}
+FindTopicsNumber_plot(result)
+```
+
